@@ -1,0 +1,10 @@
+.com-container{
+   justify-content: center;
+   flex-wrap:wrap;
+   align-items: center;
+    gap: 1rem;
+
+}
+.com-container img{
+    width: 9rem;
+}
